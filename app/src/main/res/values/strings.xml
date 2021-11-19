@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="text_content">"A acessibilidade é uma parte importante de qualquer app. Seja no desenvolvimento de um novo app ou na melhoria de outro que já existe, considere a acessibilidade dos componentes do seu app.
+        Ao integrar recursos e serviços de acessibilidade, você pode melhorar a usabilidade do seu app, especialmente para usuários com deficiências."</string>
 </resources>
